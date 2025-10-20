@@ -42,7 +42,7 @@ Fastuz ERP Platform is a dashboard-based Enterprise Resource Planning system des
 -Setup & Installation
 
 # Clone the repository
-git clone https://github.com/your-username/fastuz-erp-platform.git
+git clone https://github.com/mariemamor/ERP-Project.git
 
 # Backend setup
 cd backend
